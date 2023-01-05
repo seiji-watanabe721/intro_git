@@ -17,3 +17,6 @@ git push でリモートリポジトリに保存
 ・git commit
 ・git rm .
 ・git status
+
+・git diff でファイルの変更差分を表示する
+-> add, commit する前に確認で使用する
