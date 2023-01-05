@@ -3,3 +3,12 @@ Gitの練習をしていきます
 ・既存のファイルを管理する場合
 git init
 
+・コミットしてプッシュする
+ファイル変更
+git add でステージングエリア（控え室）に変更
+git commit でローカルリポジトリに登録
+-> i の後コメント入力、:wq で保存
+git push でリモートリポジトリに保存
+-> https://github.com/new にリモートリポジトリ作成
+-> git remote add origin https://github.com/seiji-watanabe721/intro_git.git でgitにgithubを登録
+-> git push -u origin main でgithubに登録
