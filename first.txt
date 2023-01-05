@@ -16,3 +16,4 @@ git push でリモートリポジトリに保存
 ・git add .
 ・git commit
 ・git rm .
+・git status
