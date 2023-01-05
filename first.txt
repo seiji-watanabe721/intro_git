@@ -12,3 +12,6 @@ git push でリモートリポジトリに保存
 -> https://github.com/new にリモートリポジトリ作成
 -> git remote add origin https://github.com/seiji-watanabe721/intro_git.git でgitにgithubを登録
 -> git push -u origin main でgithubに登録
+
+・git add .
+・git commit
